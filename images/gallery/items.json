@@ -1,0 +1,626 @@
+[
+ {
+  "full": "images/gallery/coat-drive/01.jpg",
+  "title": "Winter Coat Drive",
+  "date": "Jan 2026",
+  "cat": "events",
+  "key": "coat-drive-01",
+  "thumb": "images/gallery/thumbs/coat-drive-01.jpg"
+ },
+ {
+  "full": "images/gallery/coat-drive/02.jpg",
+  "title": "Winter Coat Drive",
+  "date": "Jan 2026",
+  "cat": "impact",
+  "key": "coat-drive-02",
+  "thumb": "images/gallery/thumbs/coat-drive-02.jpg"
+ },
+ {
+  "full": "images/gallery/tech-camp/01.jpg",
+  "title": "Seniors Tech Camp",
+  "date": "Apr 2026",
+  "cat": "events",
+  "key": "tech-camp-01",
+  "thumb": "images/gallery/thumbs/tech-camp-01.jpg"
+ },
+ {
+  "full": "images/gallery/tech-camp/02.jpg",
+  "title": "Seniors Tech Camp",
+  "date": "Apr 2026",
+  "cat": "events",
+  "key": "tech-camp-02",
+  "thumb": "images/gallery/thumbs/tech-camp-02.jpg"
+ },
+ {
+  "full": "images/gallery/tech-camp/03.jpg",
+  "title": "Seniors Tech Camp",
+  "date": "Apr 2026",
+  "cat": "events",
+  "key": "tech-camp-03",
+  "thumb": "images/gallery/thumbs/tech-camp-03.jpg"
+ },
+ {
+  "full": "images/gallery/tech-camp/04.jpg",
+  "title": "Seniors Tech Camp",
+  "date": "Apr 2026",
+  "cat": "events",
+  "key": "tech-camp-04",
+  "thumb": "images/gallery/thumbs/tech-camp-04.jpg"
+ },
+ {
+  "full": "images/gallery/tech-camp/05.jpg",
+  "title": "Seniors Tech Camp",
+  "date": "Apr 2026",
+  "cat": "events",
+  "key": "tech-camp-05",
+  "thumb": "images/gallery/thumbs/tech-camp-05.jpg"
+ },
+ {
+  "full": "images/gallery/essentials-drive/01.jpg",
+  "title": "Essentials Drive",
+  "date": "Jul 2026",
+  "cat": "events",
+  "key": "essentials-drive-01",
+  "thumb": "images/gallery/thumbs/essentials-drive-01.jpg"
+ },
+ {
+  "full": "images/gallery/essentials-drive/02.jpg",
+  "title": "Essentials Drive",
+  "date": "Jul 2026",
+  "cat": "events",
+  "key": "essentials-drive-02",
+  "thumb": "images/gallery/thumbs/essentials-drive-02.jpg"
+ },
+ {
+  "full": "images/gallery/essentials-drive/03.jpg",
+  "title": "Essentials Drive",
+  "date": "Jul 2026",
+  "cat": "impact",
+  "key": "essentials-drive-03",
+  "thumb": "images/gallery/thumbs/essentials-drive-03.jpg"
+ },
+ {
+  "full": "images/gallery/essentials-drive/04.jpg",
+  "title": "Essentials Drive",
+  "date": "Jul 2026",
+  "cat": "impact",
+  "key": "essentials-drive-04",
+  "thumb": "images/gallery/thumbs/essentials-drive-04.jpg"
+ },
+ {
+  "full": "images/gallery/essentials-drive/05.jpg",
+  "title": "Essentials Drive",
+  "date": "Jul 2026",
+  "cat": "events",
+  "key": "essentials-drive-05",
+  "thumb": "images/gallery/thumbs/essentials-drive-05.jpg"
+ },
+ {
+  "full": "images/gallery/health-screening/01.jpg",
+  "title": "Health Screening Camp",
+  "date": "Jun 2025",
+  "cat": "events",
+  "key": "health-screening-01",
+  "thumb": "images/gallery/thumbs/health-screening-01.jpg"
+ },
+ {
+  "full": "images/gallery/health-screening/02.jpg",
+  "title": "Health Screening Camp",
+  "date": "Jun 2025",
+  "cat": "events",
+  "key": "health-screening-02",
+  "thumb": "images/gallery/thumbs/health-screening-02.jpg"
+ },
+ {
+  "full": "images/gallery/health-screening/03.jpg",
+  "title": "Health Screening Camp",
+  "date": "Jun 2025",
+  "cat": "events",
+  "key": "health-screening-03",
+  "thumb": "images/gallery/thumbs/health-screening-03.jpg"
+ },
+ {
+  "full": "images/gallery/health-screening/04.jpg",
+  "title": "Health Screening Camp",
+  "date": "Jun 2025",
+  "cat": "events",
+  "key": "health-screening-04",
+  "thumb": "images/gallery/thumbs/health-screening-04.jpg"
+ },
+ {
+  "full": "images/gallery/health-screening/05.jpg",
+  "title": "Health Screening Camp",
+  "date": "Jun 2025",
+  "cat": "events",
+  "key": "health-screening-05",
+  "thumb": "images/gallery/thumbs/health-screening-05.jpg"
+ },
+ {
+  "full": "images/gallery/health-screening/06.jpg",
+  "title": "Health Screening Camp",
+  "date": "Jun 2025",
+  "cat": "impact",
+  "key": "health-screening-06",
+  "thumb": "images/gallery/thumbs/health-screening-06.jpg"
+ },
+ {
+  "full": "images/gallery/health-screening/07.jpg",
+  "title": "Health Screening Camp",
+  "date": "Jun 2025",
+  "cat": "events",
+  "key": "health-screening-07",
+  "thumb": "images/gallery/thumbs/health-screening-07.jpg"
+ },
+ {
+  "full": "images/gallery/health-screening/08.jpg",
+  "title": "Health Screening Camp",
+  "date": "Jun 2025",
+  "cat": "events",
+  "key": "health-screening-08",
+  "thumb": "images/gallery/thumbs/health-screening-08.jpg"
+ },
+ {
+  "full": "images/gallery/health-screening/09.jpg",
+  "title": "Health Screening Camp",
+  "date": "Jun 2025",
+  "cat": "events",
+  "key": "health-screening-09",
+  "thumb": "images/gallery/thumbs/health-screening-09.jpg"
+ },
+ {
+  "full": "images/gallery/health-screening/10.jpg",
+  "title": "Health Screening Camp",
+  "date": "Jun 2025",
+  "cat": "events",
+  "key": "health-screening-10",
+  "thumb": "images/gallery/thumbs/health-screening-10.jpg"
+ },
+ {
+  "full": "images/gallery/fall-fiesta/01.jpg",
+  "title": "Fall Fiesta",
+  "date": "Sep 2024",
+  "cat": "events",
+  "key": "fall-fiesta-01",
+  "thumb": "images/gallery/thumbs/fall-fiesta-01.jpg"
+ },
+ {
+  "full": "images/gallery/fall-fiesta/02.jpg",
+  "title": "Fall Fiesta",
+  "date": "Sep 2024",
+  "cat": "events",
+  "key": "fall-fiesta-02",
+  "thumb": "images/gallery/thumbs/fall-fiesta-02.jpg"
+ },
+ {
+  "full": "images/gallery/fall-fiesta/03.jpg",
+  "title": "Fall Fiesta",
+  "date": "Sep 2024",
+  "cat": "events",
+  "key": "fall-fiesta-03",
+  "thumb": "images/gallery/thumbs/fall-fiesta-03.jpg"
+ },
+ {
+  "full": "images/gallery/fall-fiesta/04.jpg",
+  "title": "Fall Fiesta",
+  "date": "Sep 2024",
+  "cat": "events",
+  "key": "fall-fiesta-04",
+  "thumb": "images/gallery/thumbs/fall-fiesta-04.jpg"
+ },
+ {
+  "full": "images/gallery/fall-fiesta/05.jpg",
+  "title": "Fall Fiesta",
+  "date": "Sep 2024",
+  "cat": "events",
+  "key": "fall-fiesta-05",
+  "thumb": "images/gallery/thumbs/fall-fiesta-05.jpg"
+ },
+ {
+  "full": "images/gallery/fall-fiesta/06.jpg",
+  "title": "Fall Fiesta",
+  "date": "Sep 2024",
+  "cat": "events",
+  "key": "fall-fiesta-06",
+  "thumb": "images/gallery/thumbs/fall-fiesta-06.jpg"
+ },
+ {
+  "full": "images/gallery/fall-fiesta/07.jpg",
+  "title": "Fall Fiesta",
+  "date": "Sep 2024",
+  "cat": "events",
+  "key": "fall-fiesta-07",
+  "thumb": "images/gallery/thumbs/fall-fiesta-07.jpg"
+ },
+ {
+  "full": "images/gallery/fall-fiesta/08.jpg",
+  "title": "Fall Fiesta",
+  "date": "Sep 2024",
+  "cat": "events",
+  "key": "fall-fiesta-08",
+  "thumb": "images/gallery/thumbs/fall-fiesta-08.jpg"
+ },
+ {
+  "full": "images/gallery/medical-equipment/01.jpg",
+  "title": "Medical Equipment Drive",
+  "date": "2024",
+  "cat": "events",
+  "key": "medical-equipment-01",
+  "thumb": "images/gallery/thumbs/medical-equipment-01.jpg"
+ },
+ {
+  "full": "images/gallery/medical-equipment/02.jpg",
+  "title": "Medical Equipment Drive",
+  "date": "2024",
+  "cat": "impact",
+  "key": "medical-equipment-02",
+  "thumb": "images/gallery/thumbs/medical-equipment-02.jpg"
+ },
+ {
+  "full": "images/gallery/thanksgiving/01.jpg",
+  "title": "Thanksgiving Food Drive",
+  "date": "Nov 2023",
+  "cat": "impact",
+  "key": "thanksgiving-01",
+  "thumb": "images/gallery/thumbs/thanksgiving-01.jpg"
+ },
+ {
+  "full": "images/gallery/thanksgiving/02.jpg",
+  "title": "Thanksgiving Food Drive",
+  "date": "Nov 2023",
+  "cat": "impact",
+  "key": "thanksgiving-02",
+  "thumb": "images/gallery/thumbs/thanksgiving-02.jpg"
+ },
+ {
+  "full": "images/gallery/spring-bazaar/01.jpg",
+  "title": "Spring Bazaar",
+  "date": "May 2023",
+  "cat": "events",
+  "key": "spring-bazaar-01",
+  "thumb": "images/gallery/thumbs/spring-bazaar-01.jpg"
+ },
+ {
+  "full": "images/gallery/spring-bazaar/02.jpg",
+  "title": "Spring Bazaar",
+  "date": "May 2023",
+  "cat": "events",
+  "key": "spring-bazaar-02",
+  "thumb": "images/gallery/thumbs/spring-bazaar-02.jpg"
+ },
+ {
+  "full": "images/gallery/food-art-fair/01.jpg",
+  "title": "Food and Art Fair",
+  "date": "Sep 2022",
+  "cat": "events",
+  "key": "food-art-fair-01",
+  "thumb": "images/gallery/thumbs/food-art-fair-01.jpg"
+ },
+ {
+  "full": "images/gallery/food-art-fair/02.jpg",
+  "title": "Food and Art Fair",
+  "date": "Sep 2022",
+  "cat": "events",
+  "key": "food-art-fair-02",
+  "thumb": "images/gallery/thumbs/food-art-fair-02.jpg"
+ },
+ {
+  "full": "images/gallery/food-art-fair/03.jpg",
+  "title": "Food and Art Fair",
+  "date": "Sep 2022",
+  "cat": "events",
+  "key": "food-art-fair-03",
+  "thumb": "images/gallery/thumbs/food-art-fair-03.jpg"
+ },
+ {
+  "full": "images/gallery/food-art-fair/04.jpg",
+  "title": "Food and Art Fair",
+  "date": "Sep 2022",
+  "cat": "events",
+  "key": "food-art-fair-04",
+  "thumb": "images/gallery/thumbs/food-art-fair-04.jpg"
+ },
+ {
+  "full": "images/gallery/food-art-fair/05.jpg",
+  "title": "Food and Art Fair",
+  "date": "Sep 2022",
+  "cat": "events",
+  "key": "food-art-fair-05",
+  "thumb": "images/gallery/thumbs/food-art-fair-05.jpg"
+ },
+ {
+  "full": "images/gallery/food-art-fair/06.jpg",
+  "title": "Food and Art Fair",
+  "date": "Sep 2022",
+  "cat": "events",
+  "key": "food-art-fair-06",
+  "thumb": "images/gallery/thumbs/food-art-fair-06.jpg"
+ },
+ {
+  "full": "images/gallery/food-art-fair/07.jpg",
+  "title": "Food and Art Fair",
+  "date": "Sep 2022",
+  "cat": "events",
+  "key": "food-art-fair-07",
+  "thumb": "images/gallery/thumbs/food-art-fair-07.jpg"
+ },
+ {
+  "full": "images/gallery/food-art-fair/08.jpg",
+  "title": "Food and Art Fair",
+  "date": "Sep 2022",
+  "cat": "events",
+  "key": "food-art-fair-08",
+  "thumb": "images/gallery/thumbs/food-art-fair-08.jpg"
+ },
+ {
+  "full": "images/gallery/bake-sale/01.jpg",
+  "title": "Bake Sale",
+  "date": "May 2021",
+  "cat": "events",
+  "key": "bake-sale-01",
+  "thumb": "images/gallery/thumbs/bake-sale-01.jpg"
+ },
+ {
+  "full": "images/gallery/bake-sale/02.jpg",
+  "title": "Bake Sale",
+  "date": "May 2021",
+  "cat": "events",
+  "key": "bake-sale-02",
+  "thumb": "images/gallery/thumbs/bake-sale-02.jpg"
+ },
+ {
+  "full": "images/gallery/bake-sale/03.jpg",
+  "title": "Bake Sale",
+  "date": "May 2021",
+  "cat": "events",
+  "key": "bake-sale-03",
+  "thumb": "images/gallery/thumbs/bake-sale-03.jpg"
+ },
+ {
+  "full": "images/gallery/bake-sale/04.jpg",
+  "title": "Bake Sale",
+  "date": "May 2021",
+  "cat": "events",
+  "key": "bake-sale-04",
+  "thumb": "images/gallery/thumbs/bake-sale-04.jpg"
+ },
+ {
+  "full": "images/gallery/bake-sale/05.jpg",
+  "title": "Bake Sale",
+  "date": "May 2021",
+  "cat": "events",
+  "key": "bake-sale-05",
+  "thumb": "images/gallery/thumbs/bake-sale-05.jpg"
+ },
+ {
+  "full": "images/gallery/bake-sale/06.jpg",
+  "title": "Bake Sale",
+  "date": "May 2021",
+  "cat": "events",
+  "key": "bake-sale-06",
+  "thumb": "images/gallery/thumbs/bake-sale-06.jpg"
+ },
+ {
+  "full": "images/gallery/bake-sale/07.jpg",
+  "title": "Bake Sale",
+  "date": "May 2021",
+  "cat": "impact",
+  "key": "bake-sale-07",
+  "thumb": "images/gallery/thumbs/bake-sale-07.jpg"
+ },
+ {
+  "full": "images/gallery/school-supplies/01.jpg",
+  "title": "School Supply Drive",
+  "date": "Aug 2021",
+  "cat": "events",
+  "key": "school-supplies-01",
+  "thumb": "images/gallery/thumbs/school-supplies-01.jpg"
+ },
+ {
+  "full": "images/gallery/school-supplies/02.jpg",
+  "title": "School Supply Drive",
+  "date": "Aug 2021",
+  "cat": "events",
+  "key": "school-supplies-02",
+  "thumb": "images/gallery/thumbs/school-supplies-02.jpg"
+ },
+ {
+  "full": "images/gallery/school-supplies/03.jpg",
+  "title": "School Supply Drive",
+  "date": "Aug 2021",
+  "cat": "events",
+  "key": "school-supplies-03",
+  "thumb": "images/gallery/thumbs/school-supplies-03.jpg"
+ },
+ {
+  "full": "images/gallery/flyers/01.jpg",
+  "title": "Bake Sale flyer",
+  "date": "May 2021",
+  "cat": "flyers",
+  "key": "flyers-01",
+  "thumb": "images/gallery/thumbs/flyers-01.jpg"
+ },
+ {
+  "full": "images/gallery/flyers/02.jpg",
+  "title": "School Supply Drive flyer",
+  "date": "Aug 2021",
+  "cat": "flyers",
+  "key": "flyers-02",
+  "thumb": "images/gallery/thumbs/flyers-02.jpg"
+ },
+ {
+  "full": "images/gallery/flyers/03.jpg",
+  "title": "Food and Art Fair flyer",
+  "date": "Sep 2022",
+  "cat": "flyers",
+  "key": "flyers-03",
+  "thumb": "images/gallery/thumbs/flyers-03.jpg"
+ },
+ {
+  "full": "images/gallery/flyers/04.jpg",
+  "title": "HPV vaccination research board",
+  "date": "Sep 2022",
+  "cat": "other",
+  "key": "flyers-04",
+  "thumb": "images/gallery/thumbs/flyers-04.jpg"
+ },
+ {
+  "full": "images/gallery/flyers/05.jpg",
+  "title": "Spring Bazaar flyer",
+  "date": "May 2023",
+  "cat": "flyers",
+  "key": "flyers-05",
+  "thumb": "images/gallery/thumbs/flyers-05.jpg"
+ },
+ {
+  "full": "images/gallery/flyers/06.jpg",
+  "title": "Thanksgiving Food Drive flyer",
+  "date": "Nov 2023",
+  "cat": "flyers",
+  "key": "flyers-06",
+  "thumb": "images/gallery/thumbs/flyers-06.jpg"
+ },
+ {
+  "full": "images/gallery/flyers/07.jpg",
+  "title": "Fall Fiesta flyer",
+  "date": "Sep 2024",
+  "cat": "flyers",
+  "key": "flyers-07",
+  "thumb": "images/gallery/thumbs/flyers-07.jpg"
+ },
+ {
+  "full": "images/gallery/flyers/08.jpg",
+  "title": "Fall Fiesta sponsors and supporters",
+  "date": "Sep 2024",
+  "cat": "other",
+  "key": "flyers-08",
+  "thumb": "images/gallery/thumbs/flyers-08.jpg"
+ },
+ {
+  "full": "images/gallery/flyers/09.jpg",
+  "title": "Medical Equipment Drive flyer",
+  "date": "2024",
+  "cat": "flyers",
+  "key": "flyers-09",
+  "thumb": "images/gallery/thumbs/flyers-09.jpg"
+ },
+ {
+  "full": "images/gallery/flyers/10.jpg",
+  "title": "Health Screening Camp flyer",
+  "date": "Jun 2025",
+  "cat": "flyers",
+  "key": "flyers-10",
+  "thumb": "images/gallery/thumbs/flyers-10.jpg"
+ },
+ {
+  "full": "images/gallery/flyers/11.jpg",
+  "title": "Seniors Tech Camp flyer",
+  "date": "Apr 2026",
+  "cat": "flyers",
+  "key": "flyers-11",
+  "thumb": "images/gallery/thumbs/flyers-11.jpg"
+ },
+ {
+  "full": "images/gallery/flyers/12.jpg",
+  "title": "Winter Coat Drive flyer",
+  "date": "Jan 2026",
+  "cat": "flyers",
+  "key": "flyers-12",
+  "thumb": "images/gallery/thumbs/flyers-12.jpg"
+ },
+ {
+  "full": "images/gallery/flyers/13.jpg",
+  "title": "Essentials Drive flyer",
+  "date": "Jul 2026",
+  "cat": "flyers",
+  "key": "flyers-13",
+  "thumb": "images/gallery/thumbs/flyers-13.jpg"
+ },
+ {
+  "full": "images/gallery/team/01.jpg",
+  "title": "Presenting to Livingston Township Council",
+  "date": "",
+  "cat": "team",
+  "key": "team-01",
+  "thumb": "images/gallery/thumbs/team-01.jpg"
+ },
+ {
+  "full": "images/gallery/team/02.jpg",
+  "title": "Vedant Tripathi",
+  "date": "Co-President",
+  "cat": "team",
+  "key": "team-02",
+  "thumb": "images/gallery/thumbs/team-02.jpg"
+ },
+ {
+  "full": "images/gallery/team/03.jpg",
+  "title": "Aarav Sekhri",
+  "date": "Co-President",
+  "cat": "team",
+  "key": "team-03",
+  "thumb": "images/gallery/thumbs/team-03.jpg"
+ },
+ {
+  "full": "images/gallery/team/04.jpg",
+  "title": "Vivaan Srivastava",
+  "date": "Co-President",
+  "cat": "team",
+  "key": "team-04",
+  "thumb": "images/gallery/thumbs/team-04.jpg"
+ },
+ {
+  "full": "images/gallery/team/05.jpg",
+  "title": "Siyona Malhotra",
+  "date": "Vice President",
+  "cat": "team",
+  "key": "team-05",
+  "thumb": "images/gallery/thumbs/team-05.jpg"
+ },
+ {
+  "full": "images/gallery/team/06.jpg",
+  "title": "Naisha Agarwal",
+  "date": "Vice President",
+  "cat": "team",
+  "key": "team-06",
+  "thumb": "images/gallery/thumbs/team-06.jpg"
+ },
+ {
+  "full": "images/gallery/team/07.jpg",
+  "title": "Ruaan Srivastava",
+  "date": "Vice President",
+  "cat": "team",
+  "key": "team-07",
+  "thumb": "images/gallery/thumbs/team-07.jpg"
+ },
+ {
+  "full": "images/gallery/team/08.jpg",
+  "title": "Priyal Gandhi",
+  "date": "Vice President",
+  "cat": "team",
+  "key": "team-08",
+  "thumb": "images/gallery/thumbs/team-08.jpg"
+ },
+ {
+  "full": "images/gallery/team/09.jpg",
+  "title": "Mishka Tripathi",
+  "date": "Marketing",
+  "cat": "team",
+  "key": "team-09",
+  "thumb": "images/gallery/thumbs/team-09.jpg"
+ },
+ {
+  "full": "images/gallery/team/10.jpg",
+  "title": "Ivanka Sekhri",
+  "date": "Marketing",
+  "cat": "team",
+  "key": "team-10",
+  "thumb": "images/gallery/thumbs/team-10.jpg"
+ },
+ {
+  "full": "images/gallery/team/11.jpg",
+  "title": "Shrey Gadhoke",
+  "date": "Marketing",
+  "cat": "team",
+  "key": "team-11",
+  "thumb": "images/gallery/thumbs/team-11.jpg"
+ }
+]
