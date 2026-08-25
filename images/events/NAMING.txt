@@ -1,0 +1,21 @@
+EVENT PHOTO ARCHIVE
+===================
+Naming convention: YEAR-EventName-N.jpg   (flyers use -Flyer)
+Example: 2026-EssentialsDrive-1.jpg, 2026-EssentialsDrive-Flyer.jpg
+
+The exact event names I will use, matching the 11 events on the site:
+
+2026-WinterCoatDrive-N
+2026-TechCamp-N
+2026-EssentialsDrive-N
+2025-HealthScreeningCamp-N
+2024-FallFiesta-N
+2024-MedicalEquipmentDrive-N
+2023-SchoolSuppliesDrive-N
+2023-SpringBazaar-N
+2023-ThanksgivingFoodDrive-N
+2022-FoodAndArtFair-N
+2021-BakeSale-N
+
+Originals are kept here at full resolution. Web-sized copies get generated
+into images/projects/ once we pick which shot leads each event card.
